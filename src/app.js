@@ -3,9 +3,9 @@ const cors = require('cors');
 const errorHandler = require('./middleware/errorHandler');
 
 const authRoutes = require('./routes/authRoutes');
-// const doctorRoutes = require('./routes/doctorRoutes');
-// const patientRoutes = require('./routes/patientRoutes');
-// const dashboardRoutes = require('./routes/dashboardRoutes');
+const doctorRoutes = require('./routes/doctorRoutes');
+const patientRoutes = require('./routes/patientRoutes');
+const dashboardRoutes = require('./routes/dashboardRoutes');
 
 const app = express();
 
@@ -24,9 +24,9 @@ app.get('/', (req, res) =>
 
 // Routes
 app.use('/api/auth', authRoutes);
-// app.use('/api/doctors', doctorRoutes);
-// app.use('/api/patients', patientRoutes);
-// app.use('/api/dashboard', dashboardRoutes);
+app.use('/api/doctors', doctorRoutes);
+app.use('/api/patients', patientRoutes);
+app.use('/api/dashboard', dashboardRoutes);
 
 // 404
 app.use((req, res) =>
