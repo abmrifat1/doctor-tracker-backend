@@ -81,16 +81,17 @@ The application follows a decoupled Client-Server architecture:
 <img width="1412" height="933" alt="Screenshot from 2026-10-30 15-42-07" src="https://github.com/user-attachments/assets/11d724c6-32ca-4d50-af45-45741b8c5fac" />
 
 ### Mobile View
-<img width="361" height="747" alt="Screenshot from 2026-10-30 15-19-20" src="https://github.com/user-attachments/assets/71db5875-4008-4ef6-a89f-7497f6442be1" />
-<img width="361" height="744" alt="Screenshot from 2026-10-30 15-37-59" src="https://github.com/user-attachments/assets/3b55b596-f131-4452-a910-38e127d713f9" />
-<img width="361" height="740" alt="Screenshot from 2026-10-30 15-40-29" src="https://github.com/user-attachments/assets/67abc52b-4e35-4514-ba8d-5e3e27bb27fd" />
-<img width="363" height="741" alt="Screenshot from 2026-10-30 15-39-40" src="https://github.com/user-attachments/assets/3aaf6332-0ada-4dc5-8457-d312970fdf0a" />
-<img width="360" height="743" alt="Screenshot from 2026-10-30 15-39-25" src="https://github.com/user-attachments/assets/cd92364e-88ea-41d3-898e-b42c4e92f258" />
-<img width="360" height="737" alt="Screenshot from 2026-10-30 15-55-04" src="https://github.com/user-attachments/assets/ebc21ee9-d2b2-46b2-b902-bbed3159d6ff" />
-<img width="362" height="739" alt="Screenshot from 2026-10-30 15-43-38" src="https://github.com/user-attachments/assets/85c232f3-ff95-40a3-ba3f-0b675a424966" />
-<img width="362" height="743" alt="Screenshot from 2026-10-30 15-43-24" src="https://github.com/user-attachments/assets/9232e099-b6c6-44f3-9ffe-b41595efbae6" />
-<img width="363" height="745" alt="Screenshot from 2026-10-30 15-43-12" src="https://github.com/user-attachments/assets/735fb895-2269-4699-8ed3-52c3de89eb76" />
-<img width="363" height="744" alt="Screenshot from 2026-10-30 15-43-00" src="https://github.com/user-attachments/assets/29bc695e-ecd1-47dc-a8e9-c419f5974422" />
+<img width="362" height="739" alt="Screenshot from 2026-10-30 15-43-38" src="https://github.com/user-attachments/assets/42039227-f872-4e9c-910a-7625b6442118" />
+<img width="360" height="737" alt="Screenshot from 2026-10-30 15-55-04" src="https://github.com/user-attachments/assets/7c21e941-e76f-4f22-9891-6c1e322208fc" />
+<img width="362" height="743" alt="Screenshot from 2026-10-30 15-43-24" src="https://github.com/user-attachments/assets/77626aab-fdca-4cc1-bbfa-2bb749e9ac38" />
+<img width="363" height="745" alt="Screenshot from 2026-10-30 15-43-12" src="https://github.com/user-attachments/assets/e52a1e25-a03d-41e7-a436-8faaf374e043" />
+<img width="363" height="744" alt="Screenshot from 2026-10-30 15-43-00" src="https://github.com/user-attachments/assets/c9113be1-50f6-40e9-bd77-4d2ce7a0c339" />
+<img width="361" height="740" alt="Screenshot from 2026-10-30 15-40-29" src="https://github.com/user-attachments/assets/000fb656-a3a0-4931-bed8-0f47b0dccd58" />
+<img width="363" height="741" alt="Screenshot from 2026-10-30 15-39-40" src="https://github.com/user-attachments/assets/42427b61-b418-4309-8614-cf1aa8265f54" />
+<img width="360" height="743" alt="Screenshot from 2026-10-30 15-39-25" src="https://github.com/user-attachments/assets/3caed0bf-ab9a-4826-9813-6df03ef163a2" />
+<img width="361" height="744" alt="Screenshot from 2026-10-30 15-37-59" src="https://github.com/user-attachments/assets/9a077638-df52-4fbd-b05a-a10772273b3f" />
+<img width="361" height="747" alt="Screenshot from 2026-10-30 15-19-20" src="https://github.com/user-attachments/assets/f0d46cb2-901b-45de-a621-9827fa899411" />
+
 
 
 
